@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mobiminder</string>
+    <string name="set_reminder">Set Reminder</string>
+    <string name="My_Schedule">My Schedules</string>
+    <string name="AddToDo">Add To Do List</string>
+    <string name="MyToDo">My To Do\'s</string>
+    <string name="Feedback">Rate Us</string>
+</resources>
